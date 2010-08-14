@@ -1,0 +1,19 @@
+# helloworld-webapp
+
+This is a very simple clojure webapp demo based on the compojure framework.
+
+## Run simple webapp
+
+lein test
+
+## Links
+
+http://github.com/weavejester/compojure
+
+http://github.com/technomancy/leiningen
+
+## License
+
+Copyright (C) 2010 Christian Baranowski 
+
+Distributed under the Eclipse Public License, the same as Clojure.
