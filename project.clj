@@ -6,4 +6,7 @@
         [compojure "0.4.0"]
         [ring/ring-jetty-adapter "0.2.3"]
   ]
+  :dev-dependencies [
+        [lein-eclipse "1.0.0"]
+  ]
 )
